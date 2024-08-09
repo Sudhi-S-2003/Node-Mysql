@@ -1,0 +1,12 @@
+table{
+    border: 2px solid brown;
+    border-spacing: 0;
+    margin: 5% auto;
+}
+thead{
+    background-color: #d2b0b0;
+}
+tbody td{
+    border-bottom: 1px solid #d2b0b0;
+    padding: 10px 20px;
+}
